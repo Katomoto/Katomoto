@@ -1,16 +1,16 @@
-## Hi there 👋
+# Chain Sentinel
 
-<!--
-**Katomoto/Katomoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advanced blockchain analytics and wallet monitoring toolkit.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Wallet tracking
+- Token analysis
+- Blockchain parsing
+- API integration
+- Fast filtering system
+
+## Installation
+
+```bash
+npm install
